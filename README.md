@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aws-devops-zero-to-hero
 
 AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
@@ -181,3 +182,6 @@ On the final day, you'll review best practices for AWS services, including secur
 
 ## Day 30: AWS Project with RDS
 
+=======
+# aws-interview
+>>>>>>> e9e244a80b88979b6a8cdeebfbb6838191f6b04c
